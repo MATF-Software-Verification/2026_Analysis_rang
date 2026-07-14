@@ -1,0 +1,12 @@
+build/
+build_cmake/
+build_meson/
+*.o
+*.gcda
+*.gcno
+*.info
+*.log
+coverage_html/
+__pycache__/
+*.pyc
+valgrind/*/build/
