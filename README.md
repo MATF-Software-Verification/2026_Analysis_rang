@@ -36,10 +36,7 @@ formatiranje/stil, najmanje 2 alata koja nisu rađena na vežbama).
 |  5 | cppcheck (statička analiza)                       | `cppcheck/`          | Ne                                                           |
 |  6 | lizard (ciklomatska kompleksnost)                 | `lizard/`            | Ne                                                           |
 
-Stavke 5 i 6 nisu deo plana vežbi ovog kursa (vežbe pokrivaju
-Valgrind (memcheck/cachegrind/callgrind/hellgrind/drd), gdb, perf,
-VTune, eBPF, KLEE, CBMC i Clang statičku analizu, ali ne cppcheck ni
-lizard) -- čime je zadovoljeno pravilo "najmanje 2 alata koja nisu
+Stavke 5 i 6 nisu deo plana vežbi ovog kursa, čime je zadovoljeno pravilo "najmanje 2 alata koja nisu
 rađena na vežbama".
 
 ### Preduslovi (Ubuntu/Debian)
